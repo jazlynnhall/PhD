@@ -10,7 +10,7 @@
 
 ## This manuscript was published by Nature Scientific Reports in 2020 and can be found [here](https://www.nature.com/articles/s41598-020-61164-2)  
   
-Note that some of this data was collected in the field and is not publically available. For this reason, the first script (processing the field data) is not available.
+Note that some of this data was collected in the field and is not publicly available. For this reason, the first script (processing the field data) is not available.
 
 
 ## Abstract
