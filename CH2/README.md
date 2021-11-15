@@ -11,3 +11,7 @@
 ## This manuscript was published by Nature Scientific Reports in 2020 and can be found [here](https://www.nature.com/articles/s41598-020-61164-2)  
   
 Note that some of this data was collected in the field and is not publically available. For this reason, the first script (processing the field data) is not available.
+
+
+## Abstract
+Projected increases in cyclonic storm intensity under a warming climate will have profound effects on forests, potentially changing these ecosystems from carbon sinks to sources. Forecasting storm impacts on these ecosystems requires consideration of risk factors associated with storm meteorology, landscape structure, and forest attributes. Here we evaluate risk factors associated with damage severity caused by Hurricanes María and Irma across Puerto Rican forests. Using field and remote sensing data, total forest aboveground biomass (AGB) lost to the storms was estimated at 10.44 (±2.33) Tg, ca. 23% of island-wide pre-hurricane forest AGB. Storm-related rainfall was a stronger predictor of forest damage than maximum wind speeds. Soil water storage capacity was also an important risk factor, corroborating the influence of rainfall on forest damage. Expected increases of 20% in hurricane-associated rainfall in the North Atlantic highlight the need to consider how such shifts, together with high speed winds, will affect terrestrial ecosystems.
