@@ -1,5 +1,5 @@
 # Hurricane-Induced Rainfall is a Stronger Predictor of Tropical Forest Damage in Puerto Rico Than Maximum Wind Speeds
-## Jazlynn Hall (1), Robert Muscarella (2), AndrewQuebbeman (1), GabrielArellano (3,4), JillThompson (5), Jess K. Zimmerman (6) & María Uriarte (1)  
+## Jazlynn Hall (1), Robert Muscarella (2), Andrew Quebbeman (1), Gabriel Arellano (3,4), JillT hompson (5), Jess K. Zimmerman (6) & María Uriarte (1)  
   
 1 Department of Ecology, Evolution and Environmental Biology, Columbia University, New York, NY, USA.   
 2 Department of Plant Ecology and Evolution, Uppsala University, Uppsala, Sweden   
